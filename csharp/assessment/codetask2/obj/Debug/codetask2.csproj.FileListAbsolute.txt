@@ -1,0 +1,7 @@
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\codetask2\bin\Debug\codetask2.exe.config
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\codetask2\bin\Debug\codetask2.exe
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\codetask2\bin\Debug\codetask2.pdb
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\codetask2\obj\Debug\codetask2.csproj.AssemblyReference.cache
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\codetask2\obj\Debug\codetask2.csproj.CoreCompileInputs.cache
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\codetask2\obj\Debug\codetask2.exe
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\codetask2\obj\Debug\codetask2.pdb

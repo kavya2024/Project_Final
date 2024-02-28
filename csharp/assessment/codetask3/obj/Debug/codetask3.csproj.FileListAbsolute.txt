@@ -1,0 +1,7 @@
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\codetask3\bin\Debug\codetask3.exe.config
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\codetask3\bin\Debug\codetask3.exe
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\codetask3\bin\Debug\codetask3.pdb
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\codetask3\obj\Debug\codetask3.csproj.AssemblyReference.cache
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\codetask3\obj\Debug\codetask3.csproj.CoreCompileInputs.cache
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\codetask3\obj\Debug\codetask3.exe
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\codetask3\obj\Debug\codetask3.pdb
